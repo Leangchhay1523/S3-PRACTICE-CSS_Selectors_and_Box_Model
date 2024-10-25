@@ -1,0 +1,117 @@
+*{
+    font-family: Monomaniac One;
+}
+
+.main-container{
+    width: 350px;
+    height: 500px;
+    background-color: #0065FF;
+    margin-top: 50px;
+    margin-left: 150px;
+    border-radius: 15px;
+    box-shadow: 2px 5px 8px #211bcd9f;
+}
+
+.yellow-container{
+    width: 350px;
+    height: 110px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: #FBBC05;
+}
+
+.profile-picture{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: -55px;
+    margin-bottom: 5px;
+}
+
+.profile-name{
+    font-size: 20px;
+    color: #FBBC05;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.role{
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 25px;
+}
+
+.label{
+    display: inline-block;
+    margin: 30px;
+    margin-top: -5px;
+    color: white;
+}
+
+.number{
+    font-size: 15px;
+    display: inline-block;
+    color: #FBBC05;
+}
+
+.number-container{
+    width: 90%;
+    margin: auto;
+    margin-top: -45px;
+}
+
+#num1{
+    margin-left: 25px;
+}
+
+#num2{
+    margin-left: 90px;
+}
+
+#num3{
+    margin-left: 90px;
+}
+
+.description{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+.icon-container{
+
+    margin-left: 22%;
+    width: 90%;
+}
+
+.icons{
+    width: 25px;
+    height: 25px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.btn{
+    border-radius: 20px;
+    border: none;
+    background-color: #FBBC05;
+    color: white;
+    width: 100px;
+    height: 35px;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 35%;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #E0A904;
+}
+
